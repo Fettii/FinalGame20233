@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: ef74c358ca2f52e4a8f6e9b2f9da45e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5bd88c06da42c42b0a88ecad5a21b8
+      internalID: -606863018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 389
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b877ae2b71c3f624f80d6c518a389e14
+      internalID: -1695596061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 389
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb529b835fe2242b6c445ca12fb755
+      internalID: 293435125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 389
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ef49034a37ae418a4fb6a23b7fe39
+      internalID: 869900868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 512
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b992ece19da5e45a2e065ede02854b
+      internalID: 1628394178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 314
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75edfcc8ac55c94ab21b6f1286aa358
+      internalID: 1164827614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 314
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264a54bf16961e48b35335a1dfd3a2c
+      internalID: 669108497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 314
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f8b5e293a60a4a9549ba3db4c0975
+      internalID: 1722998203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7abef917489b24cb4c8f9290d33343
+      internalID: 1140852863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 239
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d16bc2fd9c5e4c9d6ead9120b2f78
+      internalID: 1207434502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 239
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3a32250714b9499cb702f48c86407
+      internalID: 280368363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 239
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d1026839889a419a0198c8696a167
+      internalID: -1635741480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab15a9d8421c94ea9e7e7386128557
+      internalID: -1312685084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 164
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091bd7baca31844bb2774dca8ae8238
+      internalID: 2040546731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 164
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794757d54bfadb24b8a53c40021fcde8
+      internalID: 1487436568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 164
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bf491ba50a798429e9d65ed5c9bd89
+      internalID: 1210588332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a11b8b05d70f114088794ccf9f0518e
+      internalID: -472629032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 89
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0b3e5f039e5343ae13f6b4991f7c2
+      internalID: 1612996032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 89
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952446284a1c27f41b49efb8affe8be4
+      internalID: 240340630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 89
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca88e2f8af40e4cac7cd6b23326e37
+      internalID: -1542602130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab88387693a0adb498ebbafcd7a841cf
+      internalID: -608294541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 14
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cb5fb8e194de140a78c1cf190b04f3
+      internalID: -1996452330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944ef45cdc18e24ba0475064428f076
+      internalID: -2101998166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat Stage_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 14
+        width: 125
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2635d7416a684985173a3a82fb6ec
+      internalID: -1743278842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_0: -606863018
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_1: -1695596061
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_10: 280368363
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_11: -1635741480
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_12: -1312685084
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_13: 2040546731
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_14: 1487436568
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_15: 1210588332
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_16: -472629032
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_17: 1612996032
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_18: 240340630
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_19: -1542602130
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_2: 293435125
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_20: -608294541
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_21: -1996452330
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_22: -2101998166
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_23: -1743278842
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_3: 869900868
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_4: 1628394178
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_5: 1164827614
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_6: 669108497
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_7: 1722998203
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_8: 1140852863
+      SNES - Super Street Fighter II The New Challengers - Sagat Stage_9: 1207434502
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

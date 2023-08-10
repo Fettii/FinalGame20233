@@ -1,0 +1,2555 @@
+fileFormatVersion: 2
+guid: ce2669c61f17b414ead089c2de1ba9d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_0
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1305
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee35c752839c264fa3dea90161adcd5
+      internalID: 1631237441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1304
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b21fb725c2d6144a5e7f0017ec219e
+      internalID: -1602900755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1304
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd6176e764b7be44b4d1bbe84fcb4f1
+      internalID: -1982596837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1305
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e3b45356731e41952aa3a8de78b3d
+      internalID: 429997351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1304
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b21ea43a85232c4f9c7a6950741f4b1
+      internalID: -952506096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1304
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317a7fec21066e479f928f3283ff786
+      internalID: -1285602401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1303
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae9c657415ed047984fa472d11b922
+      internalID: -1769905799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_7
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1302
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121d4fc8b9ffc324a95353e31fcee057
+      internalID: -1710011739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1302
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb583de472ffc468060d82723f8206
+      internalID: -822038902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1302
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757f19f9b72913e40b2cf791610746bd
+      internalID: 2009317238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2b686782a63a40bcb942f773a409e
+      internalID: -1118288847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38fc33d31670e488942d323a9f9aae
+      internalID: 774666250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c07fdeb669c143949387bc7cd9e57
+      internalID: -729558662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477475330c7bac74bb5ff90d5f7aea15
+      internalID: 2057823958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5703d8b4c84b4b94b170bf5aa3351
+      internalID: 781092416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0aee0c61231604f984cb3e8eeab737
+      internalID: -1429233881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06443031338fc1d4daa6d420734fb388
+      internalID: -1621158939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058303437914404681dbf576400a3b7
+      internalID: -352401636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3646fa5518a4ece409b09fb5274b0c19
+      internalID: -358715596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1228
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0257eac5b08ad834990b8fa9324da5b0
+      internalID: 781208861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786557756d37384fabbcd8f2ecdd7ca
+      internalID: -580402739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c19efda4623b3488e8474ac8eb030d
+      internalID: 1412260550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76fe7e76b9fee04d9187d29ce474244
+      internalID: -1133326006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a22d38410fcef84cbbb2e4c6c115fd0
+      internalID: 1985273578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccfe3e478a50fd40b8b033744d8e51f
+      internalID: -1487917953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db4633f3603e584eaf337f09f7acb04
+      internalID: -52651529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c2a3f3c8e30d4eb9914250560e76d
+      internalID: -587669056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a4d71e85fdcb4990f78361c1ee973
+      internalID: 808573433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508403990ada7a9448a7561d50e5d8b0
+      internalID: -2110917296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1100
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a679473d703909b45be0e0faaffc6cb7
+      internalID: -45260034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ea4b224b9f3644a3c0829b1edd9d4
+      internalID: 1859809237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95b8d83d970f249a6a3223b06784d9
+      internalID: -506101609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf295e7c69c5b409012d058bbbb4c8
+      internalID: -689418376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af80d1be72602b4696b6c3a3f728dc9
+      internalID: -136463389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52ce93763c0cd479f1b064f26d95fd
+      internalID: -1320578468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dfb400ab9228843a782a6c38a0df91
+      internalID: -1669457860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40167d83de3b31d4f8b4bb787d4c4148
+      internalID: 427289173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8585d9be2e8234143bb8a412ba6296e1
+      internalID: -1780069946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6485f17062977c4b99f508c87259713
+      internalID: 1728321139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 972
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef7d7be64849af4b870a5622b514e3f
+      internalID: 1558450626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368251414e727db449721368ebaa24b1
+      internalID: 1082849225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521efe2733809149951554b5650e86a
+      internalID: 1689228314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced48164ceb23f440a4ce0419963782a
+      internalID: -721328087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c636717cc350c0418fe0c018c713c28
+      internalID: -1371778274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee39c517957f869409abaaf3706aad18
+      internalID: -612151696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89a7359590c254fa1d09168d06d4b4
+      internalID: 897032257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f01caa8bbe27f34e933db388b6f33ea
+      internalID: 1127044654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd472908bf6dba54b843eaa134485326
+      internalID: -1356753820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257e14518c441841b691c8c9f0134e9
+      internalID: -917403635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 844
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc6d44e098e9f45b9fd2d4b2841460
+      internalID: 212362510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e9ceb9d59cf14bb6e570c06870824
+      internalID: 1603309821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d801283f846149a6254469eb42241
+      internalID: -485562157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a311fe5223bc4ea4542b62a88b146
+      internalID: -700846764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111bf6f5ce74ee4ea089bd22cfdfa3b
+      internalID: -775620326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07e588b1f95674ba4e35f5969b9192
+      internalID: 891588375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0842fd6cd1d4964a8a99037f3723d06
+      internalID: 1546150906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1b076e1427ae4d9b066fd36b7765d
+      internalID: -796421390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515b10aba6df762479e378f1acac5fa4
+      internalID: 464633154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd0055bf997f046895a5df71d1e688
+      internalID: 880284414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 716
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569ea83a3d09d84428c5a5900d8cb6b8
+      internalID: 487847032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964f069e0743526478b7cd2da5a9ad56
+      internalID: -1922731404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3728a61ef077e54bbc0c717b0a847b1
+      internalID: 1772013238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabae0ab0bb00349ae471131c5ce1a8
+      internalID: 1099063541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba4d1da512565499bcf1da7d8cda20
+      internalID: 443490513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d170434e340ad4fa45bbc82e4be4f0
+      internalID: -726474439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6379d1333ac1c4cbb713b3b5d921ce
+      internalID: 472988253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f128c6c5ac5dd540bca9dd4e66a388f
+      internalID: -1602589818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda2250a72596447b1e03620679ae0f
+      internalID: 1142169636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3dfa6c66722754ba91ba906eaded75
+      internalID: 2020576757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_69
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 588
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eadafb39f6de345854d651b06c959c
+      internalID: -1480972529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d9f0e2a349ce44b23dece12b91cff
+      internalID: -2045372017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ef17e643a8c34d9653e987d75eb2d
+      internalID: -810873041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9233169b06b19d498f5e87e479e0145
+      internalID: -1871731811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f5ed20fb0693449b54e74061d9f39f
+      internalID: 1004806965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e6b58c9f46e2418c0eb606e7eeff2
+      internalID: 1133203463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3e2c217c37294eb0b9fe514ccf6fd
+      internalID: -1332405554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_76
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315500acff85ef64f946782877d317c5
+      internalID: -881155588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0666e40290abc6d4e98e2a5d34647be9
+      internalID: -657045108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_78
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5efce12a1d72b44cb880ccdce23941d
+      internalID: -289488843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 460
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1487fca5b3172274fb4b58a559d0e7c2
+      internalID: -912779048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a25cd6365ec84d8814a3a78aedf71
+      internalID: -745833503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5336692b0c0494c9378f3e6c4e5651
+      internalID: 1191954585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac331d8d844d57f4d9db6ae11154a984
+      internalID: -899165438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1487947ec89c4a887294eb2d4b3a6
+      internalID: 1115759943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f6adb1442267740827da96e866ed1b
+      internalID: 1889204506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b7d68d7e79094094d2bb42111e4ad
+      internalID: -2141783019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8bdd66669bb94ca61df35c16a3087
+      internalID: 610563626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe043bd71c2ac4fa5ecd13f34f078e
+      internalID: -320794400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_88
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d884942703ea42ae65d6c1f43c2e6
+      internalID: 508923775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 332
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea171012b5dabf74a875460c409b2909
+      internalID: 911288643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927024031111914dbae81f04cb749ea
+      internalID: 1208154025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f0e25b43236b419e46d32bd9c59c7
+      internalID: 379025942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44103148ae4b9a49b6f7bca472be469
+      internalID: 1891640426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14dbfb8eeef8884981d6a140f60498b
+      internalID: 683158548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f348131f45a0d7a47a50b2bd429ee3f6
+      internalID: -1139616568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7df2e2c447174582965f93254188f
+      internalID: -1298011016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763dcc6ebb961c34ebdae552fbe4928c
+      internalID: 1030447641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21c4fdde55e0741a9558f1ed0d186c
+      internalID: 2048016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095b5bf18ec9054bbc54ac863af6f55
+      internalID: -230268325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 204
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1435ada1a3c36c40ada3b8a0c8ec666
+      internalID: -1031356939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eacf0b16495fa4789523edb564f3b7
+      internalID: -1021617430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064703bbb03d65d468bd1f6e6aa3ac71
+      internalID: -1945136141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_102
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5144e4ff6ca274490ff2f91c4a346a
+      internalID: 1110924834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4137061dea72a94c9187fca45355da7
+      internalID: 1075147577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee7dc0a91c1cf4f94892dc85ee127b
+      internalID: -1417897883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528ed67a57814624b94a7d0d26e6c19c
+      internalID: -312977167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_106
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b0fd4be1aa6f498e004062ca56a72
+      internalID: -129577542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_107
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30101786b99434bbf423fef8c32870
+      internalID: -1258459096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_108
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ea2883d8886e4da3f21788a76aedf
+      internalID: -987900823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Street Fighter II The New Challengers - Sagat part1_109
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 76
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333298f76c60a74ebe09fc9f17964ef
+      internalID: -1446762543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_0: 1631237441
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_1: -1602900755
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_10: -1118288847
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_100: -1021617430
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_101: -1945136141
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_102: 1110924834
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_103: 1075147577
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_104: -1417897883
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_105: -312977167
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_106: -129577542
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_107: -1258459096
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_108: -987900823
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_109: -1446762543
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_11: 774666250
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_12: -729558662
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_13: 2057823958
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_14: 781092416
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_15: -1429233881
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_16: -1621158939
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_17: -352401636
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_18: -358715596
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_19: 781208861
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_2: -1982596837
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_20: -580402739
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_21: 1412260550
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_22: -1133326006
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_23: 1985273578
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_24: -1487917953
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_25: -52651529
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_26: -587669056
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_27: 808573433
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_28: -2110917296
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_29: -45260034
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_3: 429997351
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_30: 1859809237
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_31: -506101609
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_32: -689418376
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_33: -136463389
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_34: -1320578468
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_35: -1669457860
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_36: 427289173
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_37: -1780069946
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_38: 1728321139
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_39: 1558450626
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_4: -952506096
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_40: 1082849225
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_41: 1689228314
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_42: -721328087
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_43: -1371778274
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_44: -612151696
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_45: 897032257
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_46: 1127044654
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_47: -1356753820
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_48: -917403635
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_49: 212362510
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_5: -1285602401
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_50: 1603309821
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_51: -485562157
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_52: -700846764
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_53: -775620326
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_54: 891588375
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_55: 1546150906
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_56: -796421390
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_57: 464633154
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_58: 880284414
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_59: 487847032
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_6: -1769905799
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_60: -1922731404
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_61: 1772013238
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_62: 1099063541
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_63: 443490513
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_64: -726474439
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_65: 472988253
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_66: -1602589818
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_67: 1142169636
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_68: 2020576757
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_69: -1480972529
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_7: -1710011739
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_70: -2045372017
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_71: -810873041
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_72: -1871731811
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_73: 1004806965
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_74: 1133203463
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_75: -1332405554
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_76: -881155588
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_77: -657045108
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_78: -289488843
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_79: -912779048
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_8: -822038902
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_80: -745833503
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_81: 1191954585
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_82: -899165438
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_83: 1115759943
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_84: 1889204506
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_85: -2141783019
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_86: 610563626
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_87: -320794400
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_88: 508923775
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_89: 911288643
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_9: 2009317238
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_90: 1208154025
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_91: 379025942
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_92: 1891640426
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_93: 683158548
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_94: -1139616568
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_95: -1298011016
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_96: 1030447641
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_97: 2048016344
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_98: -230268325
+      SNES - Super Street Fighter II The New Challengers - Sagat part1_99: -1031356939
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

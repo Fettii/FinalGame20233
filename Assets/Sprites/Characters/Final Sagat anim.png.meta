@@ -1,0 +1,7725 @@
+fileFormatVersion: 2
+guid: bef009e7021acad45843903404eb84ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Final Sagat anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a05ae513ce4b34897bb8a005d07be7
+      internalID: -1056690582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c466a5cda47e43af36f5e6d0e6f0d
+      internalID: -1169199632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329ecbba069a5a4993bda6191cf44b9
+      internalID: 449228659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f11cb0195d6e84c830eafcf1864af0
+      internalID: -700743865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0046eeb30ca4964a83a93ec5e0959de
+      internalID: -354684518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226b08a790e4534fbbd4d71e3e0fc7f
+      internalID: 1465505094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a08ef9acfa3ef48b078deb458f842e
+      internalID: 1515841035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde6accb731285469e753b171e637ab
+      internalID: 2115041053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1420
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756569e159cadd24fb49233bf26a51d0
+      internalID: -239770198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1355
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e01425f76e4824783846809186af2e
+      internalID: -1885337640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1355
+        width: 48
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4931d6a7545b064b826c87ddcc9828b
+      internalID: 922044963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1389
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96d0cfa2ab3dfb43850dba557d4339a
+      internalID: -1442765470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1360
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631fe3e164c7da64a89cf262681cbceb
+      internalID: 396332396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1354
+        width: 50
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194d366c223a5e84894689b89d637d6d
+      internalID: -1305300810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_14
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1350
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc1838a9adb3042bedd8721c713821
+      internalID: 317936269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca26ddf8c6722e478c0186447bbb9a0
+      internalID: 263636047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28212f179f410e542a66e019583c2f5b
+      internalID: 1924677860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7baafba74dd10a45adb72af40d94b9b
+      internalID: -1643592439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f295777447c077243b883ce2a1f3289e
+      internalID: -1009999454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0457a667132c74fb99f0474b336c42
+      internalID: -1781012578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213a6a30c4b515a49a42304f918f8542
+      internalID: 1006630530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e168d43255c40948a214ef1492c4165
+      internalID: 1918968369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5741154b862118242a33f7dbdcad70be
+      internalID: 491788150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca0560cd1035141a4c605671d8ef69
+      internalID: -1900696220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0dc62502222b840a14e28266790a2e
+      internalID: -493236197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86be21d6ae73034e81a3748b16a62ee
+      internalID: -533762857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ffb64dcaefd44bb033502fc7b4896
+      internalID: 955067346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba8ea0ce1f50742a532527f5ff6882
+      internalID: 61830260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209d7f151e1d6b4eb016c0de7e93b4f
+      internalID: 720801223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1356
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d50ad17bffa4c43a3d1d12ee566697
+      internalID: 474877979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ac57f0126a4142afd45d540c72a90
+      internalID: 775222480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5eb3505e16e16488676299b4f88a65
+      internalID: 2099269920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed38e22da56fda24dbb260cb2feb2d8b
+      internalID: 325545455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1226
+        width: 49
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a7cbdbe9f5314f93fd1479726e35b
+      internalID: 135439937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1227
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9265e6e36a1741bb2ff9a4a4644a5
+      internalID: 787272291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8754afa3e0f2d949a7dc0058e006978
+      internalID: -2142986340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1228
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45efed3d7366e741b2d782f4dc24efb
+      internalID: -1008408754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1231
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bafe48681248f8419f5ad7a57bbbc44
+      internalID: 1326838465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1228
+        width: 54
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97030b9c7aa2ff49b48e2198938c3f4
+      internalID: 2111098496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90494112f8d5e934d908289b73a39062
+      internalID: 1387884116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c0a981fc6ec9428ea975dc01115b0
+      internalID: -1463419853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684792548c6e9e948ab450cf681c04a1
+      internalID: -200245208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296a2c5a57545d74896b9b4235b7bab5
+      internalID: -1646388772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91720d25bac48b44bd985e23d21b351
+      internalID: 1633070107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c827269a0e2f2418bdc48570be5738
+      internalID: 1615923115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60ba78598d5e5f47b3f77e4bad28be6
+      internalID: 1783757823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a95e14298f1637469884c3ee2db0ae2
+      internalID: 2119874509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6ff6d6332ead4d8074f9af47a1fea
+      internalID: 1728068038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abca5628d34b62a4c8c8536784f19342
+      internalID: 1244533259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a967d2d8adc15459f37f8b4120ef1f
+      internalID: -878515280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b57ccc0558e14391f47783b2127c6
+      internalID: -1197982386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb81a58a1b4c648872770a71ce085f
+      internalID: 587616949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9410d01bded5e8469b677072df37ff3
+      internalID: -2013297359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b214b99a75b75b4589d79229809b182
+      internalID: 1821937815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bde3ac53a42aa746b597422914d0934
+      internalID: -301484322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394669c7926086b488f31e9da88a8c22
+      internalID: -1426339332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1360e2b4b31dc4cad287d8d80710b2
+      internalID: 410261242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca403c20b82f346949b21dfbafe4fe
+      internalID: 488158170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321de1d389a6c1447a9610cf4fcf1afa
+      internalID: 1991107088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1228
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28db6ed34f894b4da300c36c7818a92
+      internalID: -1581946155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08daa4b7b21ff834092c018cf82e16a3
+      internalID: 490279868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ff0aeb23d4d046910940e5ba47986
+      internalID: -1391072681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75597b3917437a44915aeed9ac4ac5f
+      internalID: 399038235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b19ab249dbcb564994f416cf8e300fe
+      internalID: 578484149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aecb3d792e830a4eb0cef79ea4c5319
+      internalID: -1541803499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03b488fad96b154c9bfc4a2feeed978
+      internalID: -857254138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025cbb834855830439d35539b01aa7b4
+      internalID: -928821232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_67
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1099
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e1e4872b5e294883a32ea9a84b157
+      internalID: -1022423139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f39b9e2353e9f4080af4fb521e2342
+      internalID: -576344193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_69
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1099
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fed2df54172964798c4cc3c75c5e7b
+      internalID: 790478880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630e45f3295b1341a2fefabb70c1468
+      internalID: 633678992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da0b74da9bb97240bfe1e171b139562
+      internalID: 1784505240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_72
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc91fa34d2ffa849bd02e99fd96c66c
+      internalID: -705301634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b68e5e387bc084fb16eef36025d168
+      internalID: 1273090363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd7d3b6bf105144a2d5a6e40faf0f9
+      internalID: -352483863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367c3708d73f3fd40b2bed0aea08bed7
+      internalID: -503431244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b097d40c6fc46146a53464aeeba93b4
+      internalID: -1622033193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e512d0c78dd454db8a008624bcc464
+      internalID: 1566049953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba265945269cc854a998ef84e67e21d9
+      internalID: -1077801031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2adf1254a9f841ac7efe850dd2524
+      internalID: 1938524480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdf91f3993196d48977c40d77a7af22
+      internalID: -1391280410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac4c4b202fa9154ba082dc292b3abc4
+      internalID: -1250920180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92938ce7e7b8bb24caecb6c18077e504
+      internalID: 1432177775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151c14a49dc6cb49805902f1e4dc0ca
+      internalID: 1891594081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7bdb05f2f29349bc555eec8eadec3
+      internalID: -122238606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa86716d820b6944ac888c39ad88f2c
+      internalID: -686582371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2da01d3d18692469fca3d7f731480d
+      internalID: 203439606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7357163bcdf3add40b57e7196ac3f9c5
+      internalID: 163585785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_88
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa623cdb05589f45955a6d07d0cd93f
+      internalID: 491855837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1238a8f6c4366f049bfe2d199da3f28f
+      internalID: -590449123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 73
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d427bfea5e94434987ff624cda767b2
+      internalID: 1098174021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 970
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6a779e6517bf5438d37f91ef6ca4be
+      internalID: -574547454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 968
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a455046d18e35747b4b792184500486
+      internalID: -1487152344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f6a73d251e38e4091711403492d953
+      internalID: 1679021950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 967
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0f08d58fe1bd44482ae9e45a23b459
+      internalID: -1870273018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_95
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 965
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04c19ac95feb3444a3ab36cf805312a
+      internalID: -1391017743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c624b6abf0ce41bee661e687cfc5d
+      internalID: -174038075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_97
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 964
+        width: 83
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b59af3872480734292a58a0acd882d1
+      internalID: 343873890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_98
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 965
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca04a8338b1c774a93e5c47ac80a59e
+      internalID: -1647412426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_99
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 972
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb02f9b20a7dd48b099db6a0ae8452
+      internalID: 1040781555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d7944f4d4070c4c8069b71d321eeff
+      internalID: -377805706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_101
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff4950f44de8d4cbe517a834d7dcc3
+      internalID: -1834693666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a696092f997d88479da76c6a40bbe5a
+      internalID: -1033457484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_103
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c349cad01240cd446a7213b796108de1
+      internalID: 1649834058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed4ceb6309910459002a0fdcb01cbb
+      internalID: -1914054472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7b449220f63845961d14a844da63d
+      internalID: 350632973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13580e061cfd2e2469068e6e396da353
+      internalID: -203488191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82caf749e1e854abaf7b50dcbc68c6
+      internalID: 1703840920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced14b18934e93f4d87460d56c1c1593
+      internalID: 1750986586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff816bad605ff5848b8be4bed4088f3e
+      internalID: 1263372024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a81d7f381bff4996bbd32d32e46a9
+      internalID: -1083624148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1204139b805f439440f25e324a44a
+      internalID: -1420347433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_112
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73db9871305a3f248b4ac8e3ca918726
+      internalID: 1352856444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2f2286bcfa9f48af07237922bce25
+      internalID: -1969456764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded471644586694a9351ec7eb027ad8
+      internalID: -1010312147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5b8dfee530a1459ca9f2c205fac2f
+      internalID: 1629535676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_116
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8d7a5258804e4595f390641449c99
+      internalID: -1704014688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_117
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa425aadf63ccf14cbda8cd63f4ca634
+      internalID: 963149907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_118
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d699ad746ebd5247b90c503ed21c39c
+      internalID: 1574468243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab332407458bc46b42c5510e26294d
+      internalID: -1879993995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9fa9877868734abeb0f51c6f53215
+      internalID: -1825236570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6013dba4fbe2664fb2b0a53f1fb632c
+      internalID: 154453534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a98748a4dd795049af075fc650ffb5d
+      internalID: -1673802049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b7b5c04d1fe94d8303b65f6ca090d
+      internalID: 1551691484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e329622ea1a044dba03dce5cf72f1f
+      internalID: 203469457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3a4330f693a349bebf68b33b09a1b
+      internalID: 647802672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084c1801a1685348b153e21b2d7c27b
+      internalID: 1399034374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b93533541b644f87240f18dc3bd35
+      internalID: -1935760762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf2006baa4ad5449d06e2ce86406db
+      internalID: -309841925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db595d535694684183e855a5f2b4fd7
+      internalID: -1825163098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462188a8b3dbf745ac84f2ffc997359
+      internalID: 1646680042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d9a6fafccfad54aa227a3e68304198
+      internalID: -1777790525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680d53e303984841b49398927403077
+      internalID: 789230345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4d27bc92189147acd031b83f9aa72
+      internalID: 267793641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_134
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a21bb4b3c7514692f17f5dff70d56
+      internalID: 1965311749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1057225702aa4583f010276d6067c
+      internalID: -2127005818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428fd2839785a0846a989978fc208251
+      internalID: 744430188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c47026686b2d4ab6df13d0299ac65
+      internalID: 991763575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1757d8703d33498531b89442ace84
+      internalID: -292848239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1670f6fba1eb03145ae3a849e1725e84
+      internalID: 1842523976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab379e3e3ae21145b641b4258d42d57
+      internalID: 1191191255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e046259a48a2b94d95bc8bf452e45a7
+      internalID: -391484707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf101fcab844cb47820d33df0b0078b
+      internalID: -1142562643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_143
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cde020a8cb05a4fa17c74ab155278a
+      internalID: -1210404300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_144
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35eea3043d86a4b931bfe0385ad693
+      internalID: -458184550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eda00d940de58449127f3dcec68f50
+      internalID: 42334365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_146
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324baf7e26ac7142bf87cbc89e12040
+      internalID: 726062562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2409202e5a275fe4082aa6c7ec85c637
+      internalID: 289368345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_148
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97677600321613247996aa1cd58a9b40
+      internalID: -1471952808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_149
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf520aab4ec48494ba3b6c626cecfd47
+      internalID: 542477313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3dba31cd72e14a9e53aaf19b8d1b9
+      internalID: -223125515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a653fcf684b064496e5b83ed774114
+      internalID: 890692682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22161454695fabd4aa8d54ae140706b2
+      internalID: 1672906975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98cf8eec9450d4097507091628e266
+      internalID: 1560814784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90d815bf3f7c14db4871702cf76600
+      internalID: -1154612194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39331a160070b44a33f55b8ee3da87
+      internalID: 1648136978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d0874ee1dfb64d99f06276fdad1bb
+      internalID: 1148500964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_157
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411036fbb27ed8542b3cfaaed2971d5c
+      internalID: -544884560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e1f166afcb424397e47a7fe7b55c5
+      internalID: 32430997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_159
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64725408920ac643ad80e19754ebed2
+      internalID: 1163945482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_160
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfadbdb6d8670b41960077761ad87ab
+      internalID: -199113413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_161
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e44f1c7de0d6f24cbf0a6464feca4f5
+      internalID: -441885292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_162
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf40d6b962124f44b2aadbd5b5032a4
+      internalID: 1302017780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_163
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc635f87b18770a4ab1aa59a813e9ce1
+      internalID: -362363864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_164
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883c6a31c71d1be47add9ba139c07dcc
+      internalID: -479073580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bde20285f29a40ac916a92ed927b5
+      internalID: 562174989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fa467a7151cd44cb86a0a054ef71ba
+      internalID: -1340893081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd99ee8e7f76441bde46bdebd05ac9
+      internalID: 760273168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78f674912295e444bdfcd15f017f2aa
+      internalID: -146183931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de21cbc5da6c4b14689d5fb280fb0f7c
+      internalID: 396314914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182f97ef04e33949a8b73cb586caaba
+      internalID: 821827050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d4d8d172d06ff4298407421b64a5bd
+      internalID: 1163299092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c6b5bca19f754ea99ff83df7a96eb
+      internalID: 1740455946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_173
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d433aba281ab479b46b1df8c06c5e
+      internalID: -11895092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954253a8d4aafa74bb11975c3fc691f4
+      internalID: 1139841924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_175
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693127647ad977e498cd4bd0ca1d04b2
+      internalID: 2081837648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_176
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68384b863dcbcfd46ab3c3752bdb98a6
+      internalID: 823286241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_177
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d6c1ad9c09530438aaf5358a922dd7
+      internalID: -2023883183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_178
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bdb6ee9c263b41a20887cd635d131
+      internalID: 489632003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_179
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aee5ca32caa934e99fcb45ba4b0d82
+      internalID: 948530558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe0d812ee018449be99653e55867ad
+      internalID: 936050991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c68fd046519c4790cb2601673cce6
+      internalID: 2018421599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47216737fc5382348831e4a0290d5d56
+      internalID: 566563305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e1da8629a50fe4491997b88b9ec576
+      internalID: -593719286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ba9cb2d5f46a4ab7b7dee95c16bba
+      internalID: -1139182199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612203516c2683b4e82af4b13f12bb3c
+      internalID: -997640947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92a681ea255574aba1eb1e70be7490
+      internalID: 481616572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_187
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42ebd85cd1f7649aaae6ff0fc312f6
+      internalID: -2141123771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_188
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd842e3543fc141bbe4b6b97708ffa
+      internalID: 1944942321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_189
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4121c544dcf3847864eb4e95d03dc4
+      internalID: 1566431795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_190
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a74bc5e5f7a548950338a655bbb17
+      internalID: -122936940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_191
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569125e0a4aef2141b353a1cfe5fdfb4
+      internalID: -2105338455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_192
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138f7e2e4c1e49408ac10e7088fd6a7
+      internalID: 434075321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_193
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360891cf6dcdad4a981c075071a4748
+      internalID: -1705652717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_194
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168476506919d2a4585783d5fc651826
+      internalID: 1369690045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70dad1b17ee8e4183a3f3f56688628
+      internalID: -1428098890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54241c5280d2c654fad3cf3ddfd267d5
+      internalID: -973046161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636b28849c0a92a4d8fb4292c676c643
+      internalID: -493818846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526156f14fa809245b7be371a6bf4ce1
+      internalID: -1471131074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec630bdd6f05245857d0a874689f13
+      internalID: 302865266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_200
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b25ce5d637f04bbc678f36e760821
+      internalID: -772271416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f311a5d5ad353f46af96632cdef5eaa
+      internalID: 1977805423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_202
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8d5f190ac7054a9df56f15218acf4
+      internalID: 1405452159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_203
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac536024a8b9c34bb55940a75a52927
+      internalID: -1771782952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f8e9a60a4a6e458838b28ab9d28ba
+      internalID: 1352304170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_205
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ce812e6af85340af3970e4300901f
+      internalID: 1025877841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_206
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f447f459313533b43a1bdf1266400e5c
+      internalID: 1571051953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_207
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dcd94c2b6192c4180b7170adf7bf28
+      internalID: 1943841580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_208
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8c9be568cfe9499734fe25e4c1ec0
+      internalID: 1679167624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_209
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0cf4dfdf422e641aac3a998945ed8a
+      internalID: 954488252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92aac933ca9fa849a5ba937d11fc3a4
+      internalID: 119990402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_211
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6ebfcf92641542912ef4e2d0226a0
+      internalID: 371474425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078b2a8031ec3548813107c35fc2b3d
+      internalID: 1333327782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1837d93feca0ad4409e1a10752e91f42
+      internalID: 466465326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_214
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b541ce52d04847b8c861e4c1d7b22
+      internalID: -1892483825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_215
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2026eb02f118fac40b7407b1ab6f9c5a
+      internalID: -981973625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8fc8fd52dfaf49983f2215693707f
+      internalID: -1616634384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_217
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7045b2752ee5d8409932e9ea834bf0f
+      internalID: -1709284875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_218
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cc53a3ecafa04583001e9bfe61472
+      internalID: 1676056521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_219
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc9b69107dfa74cbc0f266d6794c38
+      internalID: 742547661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_220
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ed6293db8e4e43a2e9ee0a7f00af6
+      internalID: -1215355416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_221
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e474d87de360a6f42bde41760a848422
+      internalID: -116270990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_222
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91658dd0415564e90a8e261df7bda3
+      internalID: 335892623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_223
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3463e767e378488af3a7bc955a077
+      internalID: -989600633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_224
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa3163a92baef4db0e51655e08171f
+      internalID: 1557100264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29396ecba8515448ab8858055e89183
+      internalID: 287487417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc1e5ea5f3a4146ab55d709a7f4368
+      internalID: 814328801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_227
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef5d17d9840a540b31c6ea936fd1f9
+      internalID: 585816719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d733a72edd65c43ab6659e3e1fa4bc
+      internalID: 337488196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_229
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46b318cc6b67e45961099a7568a607
+      internalID: -532386860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_230
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdcecc72c8d73f4eae96b4c87a68a50
+      internalID: -845214325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a098fac550b0364588ad7a80dd98a2a
+      internalID: 936640103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_232
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc79439c1b3be54468862090547f5a67
+      internalID: 585788249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_233
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a790e68349af048a170f155ad9e1e4
+      internalID: -500160637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_234
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a1cc030148d44093ac9e6ee413694
+      internalID: 817307887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_235
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adf49a26f948c428aff020ae5b9084
+      internalID: 197004014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_236
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ea39da6b48dff479bcdec73427224c
+      internalID: 1197386878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_237
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a99936e3158948be2b4c9b3365b6c
+      internalID: 197850553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_238
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabef5c4947d21f49949c4f6e546f439
+      internalID: -1229545567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_239
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006de597c663ad243b7316544c674743
+      internalID: 9686983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18a3e60f5a7a548b8f4b50ec06c90a
+      internalID: -153197728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35082cf22fbcef49ba04660aaf57ea3
+      internalID: 112429887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4614f24e38488c4b831ca94436d76fc
+      internalID: 50139658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7a7cbca33d5549bd51a647bc191a2
+      internalID: -162150055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe631d2d3ce84f458e658e2d2e3235d
+      internalID: -1007832664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d921244a06d67c44dbd166e052eddce8
+      internalID: -65792195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a68233023ce314e8d6626819807aa6
+      internalID: 235431175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76008b75c637d4e873d6276e584985
+      internalID: -1349132064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfae5b084e855a4787d229d8c1ebe38
+      internalID: 1324890514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da932e651cae9c449b34616262c6756d
+      internalID: 1775578043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03f3e4318173f43998c6afba54cbd2
+      internalID: -781830128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de9b58ae739c64386f1fbedf51c8e1
+      internalID: -1913557838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debfcf8881bc5be4288e199f7e68061d
+      internalID: 867757748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648963e7d0320c4d990fef6b4546a2f
+      internalID: 991871970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71d9c70fd102248906000ed6ac7bdf
+      internalID: -1796886422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc94d798946cac4596f7039febf3fcb
+      internalID: -1212910665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60edd793f718b4c9d58f8a7d1ec020
+      internalID: 744379870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_257
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347097103b43c0743afe33fb148778f4
+      internalID: -371527302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_258
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941c22537053e994a9b909c2021a0d90
+      internalID: 913085168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_259
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e560f70af3d801c41a8af3c5c9e34b84
+      internalID: 1096433192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_260
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7292c1f56cb8bd04b8c520f541d36c31
+      internalID: -480940930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_261
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13953d13e4d444e429a8c9c0365e280c
+      internalID: -450797918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_262
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee466d2a07849f4eac7f36dcfe819c9
+      internalID: -478553010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_263
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4e0c8b1d05f54c99dd2792d71d4d0
+      internalID: 124750624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_264
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b930c33ea4b6f4e8eee7ab6cbaa514
+      internalID: 1032139567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_265
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2865eb311b52e41bed43e3c466746a
+      internalID: 770540556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_266
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0600ffdbaca6aaf43bbb3eb85bbff9a0
+      internalID: 980498280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_267
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e16d364b77c24796caab1771bdfc7
+      internalID: 1852528798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_268
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b16d5c7872614c9c4871b389966f7
+      internalID: 91743767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_269
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a074c3ba4d234db98dbdf6245c01a
+      internalID: 391124694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67158aa1e819bd54c914c2883cb3302a
+      internalID: 1299606015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_271
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d33325e6be6f64cbcf60e21de4fb93
+      internalID: 776243584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_272
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685580a666f88814fbe248a329b08790
+      internalID: -859504167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9e1190a8f2704aaf68bbe37834172
+      internalID: 1250717330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_274
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90edc3fc4ea99014a91a43bc88a90b4b
+      internalID: 1967083539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_275
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5708976d4895840478c95ee702e1c830
+      internalID: -1838695458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d2c987d2301a4caf4f13d9b8e7941
+      internalID: -379743059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_277
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f0cfc7d1a3ac4bb3193e49a330811
+      internalID: 1601511219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_278
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93591428809627847828b7a27a97a457
+      internalID: 218034833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_279
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f1f67c195fee4aa2de6ec3ad5b3b5
+      internalID: -1278499345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_280
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d9cd9129e148c43ad883156f3901a2
+      internalID: 754310052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_281
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1bd407f9806744ea295c7c56ee4249
+      internalID: -60793819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_282
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c64834e46deeaf43840a6f7e927b8e7
+      internalID: 502263704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_283
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113abccb60256804e9c47abba4ae4e8d
+      internalID: 1333721671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_284
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c2ed21f07f6464f8464d418636a4a1
+      internalID: 1491464299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b4ee254e8ee240b1e471b1a009b42
+      internalID: 2075741212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_286
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1283053d13e264bb878e7eba374b79
+      internalID: -1235941614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_287
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776e03d75ae73241b7c417fe42bc3cc
+      internalID: -106532974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_288
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 129
+        width: 63
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b80384140acf84e99d30bd468da864
+      internalID: 1769948744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_289
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 137
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da42747cef5b941ad52100c4152110
+      internalID: 104299888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_290
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ab35e9a85c97a4f8fa7aeb8354665f
+      internalID: 1984571011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_291
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 129
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc463c038d3643b42ab60d1ef3d1968e
+      internalID: -1375433306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_292
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 125
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf76477a11f0841adc305c90df7b1f
+      internalID: 449615241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_293
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890a931c2cf8024580059d0d005f9e8
+      internalID: -1135745093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_294
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b1d0625cce044d8af998f277f332c
+      internalID: -1570714718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_295
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48d7cdf5cb1a045832ef97dcb13806
+      internalID: 1556759944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_296
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74348ebf9f3bb9345a0dc0c6efcc8cd3
+      internalID: 89344301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_297
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4518fd6864df4485ca02545bb3786
+      internalID: 1234880113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_298
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb8896266ccdb340bbd1e83bfa70581
+      internalID: 928331804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_299
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae457ff046689046937a44e077b3d30
+      internalID: -1376122600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f029b6c009b5764d9e378f75878f69e
+      internalID: 1616980207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_301
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e91bcae43e8145977b4339c09867c
+      internalID: 511558153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_302
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01516f561a4cf794889a1e49b7444244
+      internalID: -1602080310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_303
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb4ba9e0d35c3d45b5d3cfe64b00035
+      internalID: -1989354450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_304
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2122636c3931d479a1522f3e70a69a
+      internalID: -1230487938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_305
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fdbebe12e115a41b91ae0cd77ce8cf
+      internalID: -1372614380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_306
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998bbd95bed36942aea021af6900195
+      internalID: -1236777847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_307
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e2a92624e13849a9ef7de62114a68
+      internalID: -1008352091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_308
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7d7a421411e4e4fb1724fa54502044
+      internalID: 1783117595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_309
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d65cdc51e750534f89533c54b73db01
+      internalID: 1917584107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_310
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ee837cf2eeec459fda5163c384d5b
+      internalID: -1127517238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_311
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c552110f475dbc43888dfa3164a7ca5
+      internalID: -584547206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_312
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2937255d2d244ca9c0fc84c31fa9b
+      internalID: 548128513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_313
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b34cfbb02d754da89c0c0cf2f2ef1
+      internalID: 294524040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_314
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f20bcc61e3c7d48a4da0b47d369cc3
+      internalID: 1245147979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd84b2100be9c24499066b37c0ff08b
+      internalID: 1685790062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_316
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d9e7bd2e5c5a04397bd6d989d8e995
+      internalID: 2076134539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_317
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cacae261af8e741894c6a50e836cd3
+      internalID: 1079508283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_318
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7121b804e8c3244bb657cbd649081cb
+      internalID: 880499431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_319
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc889c38d4b1efb4a8b914223836d074
+      internalID: 1106553427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_320
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6ff56509aeb94aa523438ededdffd
+      internalID: 552054679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_321
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beea17c5c50754d439e34ad75a32f9e3
+      internalID: -1165351919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_322
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3cdc8295c541b4ba0f993a4a0c812b
+      internalID: -1378583017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_323
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4368c49cd222e049a42a3595f157008
+      internalID: -812165939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_324
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f403c346136c004f87470642c90a7a5
+      internalID: -783245854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_325
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49888b6dd1c2e2458cd68c3f25c908d
+      internalID: -169663544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_326
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6247e77012594f8d5f3344986faf7
+      internalID: -1948117176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_327
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44735c579328cc74bb815ae1c69829ce
+      internalID: 58492870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_328
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27bf73f1ea9c9c4c8b55025607e95c9
+      internalID: -2041793996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_329
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de52910afea14694f8d16e8e53804b8f
+      internalID: 140204696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_330
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a6b3dce8aa4644bb87f22b8b1fe97
+      internalID: -222276673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_331
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3785dd46627954eb3df3be80a39258
+      internalID: -2036931941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_332
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d258205041854fa8a36ab587ecac4
+      internalID: -1128602537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_333
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15759e5a4dfa37640a3a29efada9a118
+      internalID: -1148661557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_334
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a4c709cc354e488592221a408fa6a
+      internalID: -816635124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_335
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af133ed3e78714aafccadc9e9d2f2b
+      internalID: 67825446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_336
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55e93c47b538a4385f712e573e0ef9
+      internalID: 457287830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_337
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aac93f713fc8241a0528eaf6a2906a
+      internalID: 1282757199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_338
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb7a8bfa417eeb4ea89a5a766b65de2
+      internalID: 1748900119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_339
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb254454d436d0244b747982a715bc9d
+      internalID: 1731051871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_340
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22444f40010c9e549a2099439f9c56a1
+      internalID: 1887417334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_341
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7d2f7de6d24e47be26b3fd6345eb6
+      internalID: -2073770487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_342
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729aa1abae8e1174bbc0e66c151d3fe1
+      internalID: -841383297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_343
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f189b7306ca8b14e8fc24ab18af4549
+      internalID: -1889164160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Final Sagat anim_344
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1acfa4328674bc4c94277e4aaabfa48
+      internalID: -154309017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Final Sagat anim_0: -1056690582
+      Final Sagat anim_1: -1169199632
+      Final Sagat anim_10: 922044963
+      Final Sagat anim_100: -377805706
+      Final Sagat anim_101: -1834693666
+      Final Sagat anim_102: -1033457484
+      Final Sagat anim_103: 1649834058
+      Final Sagat anim_104: -1914054472
+      Final Sagat anim_105: 350632973
+      Final Sagat anim_106: -203488191
+      Final Sagat anim_107: 1703840920
+      Final Sagat anim_108: 1750986586
+      Final Sagat anim_109: 1263372024
+      Final Sagat anim_11: -1442765470
+      Final Sagat anim_110: -1083624148
+      Final Sagat anim_111: -1420347433
+      Final Sagat anim_112: 1352856444
+      Final Sagat anim_113: -1969456764
+      Final Sagat anim_114: -1010312147
+      Final Sagat anim_115: 1629535676
+      Final Sagat anim_116: -1704014688
+      Final Sagat anim_117: 963149907
+      Final Sagat anim_118: 1574468243
+      Final Sagat anim_119: -1879993995
+      Final Sagat anim_12: 396332396
+      Final Sagat anim_120: -1825236570
+      Final Sagat anim_121: 154453534
+      Final Sagat anim_122: -1673802049
+      Final Sagat anim_123: 1551691484
+      Final Sagat anim_124: 203469457
+      Final Sagat anim_125: 647802672
+      Final Sagat anim_126: 1399034374
+      Final Sagat anim_127: -1935760762
+      Final Sagat anim_128: -309841925
+      Final Sagat anim_129: -1825163098
+      Final Sagat anim_13: -1305300810
+      Final Sagat anim_130: 1646680042
+      Final Sagat anim_131: -1777790525
+      Final Sagat anim_132: 789230345
+      Final Sagat anim_133: 267793641
+      Final Sagat anim_134: 1965311749
+      Final Sagat anim_135: -2127005818
+      Final Sagat anim_136: 744430188
+      Final Sagat anim_137: 991763575
+      Final Sagat anim_138: -292848239
+      Final Sagat anim_139: 1842523976
+      Final Sagat anim_14: 317936269
+      Final Sagat anim_140: 1191191255
+      Final Sagat anim_141: -391484707
+      Final Sagat anim_142: -1142562643
+      Final Sagat anim_143: -1210404300
+      Final Sagat anim_144: -458184550
+      Final Sagat anim_145: 42334365
+      Final Sagat anim_146: 726062562
+      Final Sagat anim_147: 289368345
+      Final Sagat anim_148: -1471952808
+      Final Sagat anim_149: 542477313
+      Final Sagat anim_15: 263636047
+      Final Sagat anim_150: -223125515
+      Final Sagat anim_151: 890692682
+      Final Sagat anim_152: 1672906975
+      Final Sagat anim_153: 1560814784
+      Final Sagat anim_154: -1154612194
+      Final Sagat anim_155: 1648136978
+      Final Sagat anim_156: 1148500964
+      Final Sagat anim_157: -544884560
+      Final Sagat anim_158: 32430997
+      Final Sagat anim_159: 1163945482
+      Final Sagat anim_16: 1924677860
+      Final Sagat anim_160: -199113413
+      Final Sagat anim_161: -441885292
+      Final Sagat anim_162: 1302017780
+      Final Sagat anim_163: -362363864
+      Final Sagat anim_164: -479073580
+      Final Sagat anim_165: 562174989
+      Final Sagat anim_166: -1340893081
+      Final Sagat anim_167: 760273168
+      Final Sagat anim_168: -146183931
+      Final Sagat anim_169: 396314914
+      Final Sagat anim_17: -1643592439
+      Final Sagat anim_170: 821827050
+      Final Sagat anim_171: 1163299092
+      Final Sagat anim_172: 1740455946
+      Final Sagat anim_173: -11895092
+      Final Sagat anim_174: 1139841924
+      Final Sagat anim_175: 2081837648
+      Final Sagat anim_176: 823286241
+      Final Sagat anim_177: -2023883183
+      Final Sagat anim_178: 489632003
+      Final Sagat anim_179: 948530558
+      Final Sagat anim_18: -1009999454
+      Final Sagat anim_180: 936050991
+      Final Sagat anim_181: 2018421599
+      Final Sagat anim_182: 566563305
+      Final Sagat anim_183: -593719286
+      Final Sagat anim_184: -1139182199
+      Final Sagat anim_185: -997640947
+      Final Sagat anim_186: 481616572
+      Final Sagat anim_187: -2141123771
+      Final Sagat anim_188: 1944942321
+      Final Sagat anim_189: 1566431795
+      Final Sagat anim_19: -1781012578
+      Final Sagat anim_190: -122936940
+      Final Sagat anim_191: -2105338455
+      Final Sagat anim_192: 434075321
+      Final Sagat anim_193: -1705652717
+      Final Sagat anim_194: 1369690045
+      Final Sagat anim_195: -1428098890
+      Final Sagat anim_196: -973046161
+      Final Sagat anim_197: -493818846
+      Final Sagat anim_198: -1471131074
+      Final Sagat anim_199: 302865266
+      Final Sagat anim_2: 449228659
+      Final Sagat anim_20: 1006630530
+      Final Sagat anim_200: -772271416
+      Final Sagat anim_201: 1977805423
+      Final Sagat anim_202: 1405452159
+      Final Sagat anim_203: -1771782952
+      Final Sagat anim_204: 1352304170
+      Final Sagat anim_205: 1025877841
+      Final Sagat anim_206: 1571051953
+      Final Sagat anim_207: 1943841580
+      Final Sagat anim_208: 1679167624
+      Final Sagat anim_209: 954488252
+      Final Sagat anim_21: 1918968369
+      Final Sagat anim_210: 119990402
+      Final Sagat anim_211: 371474425
+      Final Sagat anim_212: 1333327782
+      Final Sagat anim_213: 466465326
+      Final Sagat anim_214: -1892483825
+      Final Sagat anim_215: -981973625
+      Final Sagat anim_216: -1616634384
+      Final Sagat anim_217: -1709284875
+      Final Sagat anim_218: 1676056521
+      Final Sagat anim_219: 742547661
+      Final Sagat anim_22: 491788150
+      Final Sagat anim_220: -1215355416
+      Final Sagat anim_221: -116270990
+      Final Sagat anim_222: 335892623
+      Final Sagat anim_223: -989600633
+      Final Sagat anim_224: 1557100264
+      Final Sagat anim_225: 287487417
+      Final Sagat anim_226: 814328801
+      Final Sagat anim_227: 585816719
+      Final Sagat anim_228: 337488196
+      Final Sagat anim_229: -532386860
+      Final Sagat anim_23: -1900696220
+      Final Sagat anim_230: -845214325
+      Final Sagat anim_231: 936640103
+      Final Sagat anim_232: 585788249
+      Final Sagat anim_233: -500160637
+      Final Sagat anim_234: 817307887
+      Final Sagat anim_235: 197004014
+      Final Sagat anim_236: 1197386878
+      Final Sagat anim_237: 197850553
+      Final Sagat anim_238: -1229545567
+      Final Sagat anim_239: 9686983
+      Final Sagat anim_24: -493236197
+      Final Sagat anim_240: -153197728
+      Final Sagat anim_241: 112429887
+      Final Sagat anim_242: 50139658
+      Final Sagat anim_243: -162150055
+      Final Sagat anim_244: -1007832664
+      Final Sagat anim_245: -65792195
+      Final Sagat anim_246: 235431175
+      Final Sagat anim_247: -1349132064
+      Final Sagat anim_248: 1324890514
+      Final Sagat anim_249: 1775578043
+      Final Sagat anim_25: -533762857
+      Final Sagat anim_250: -781830128
+      Final Sagat anim_251: -1913557838
+      Final Sagat anim_252: 867757748
+      Final Sagat anim_253: 991871970
+      Final Sagat anim_254: -1796886422
+      Final Sagat anim_255: -1212910665
+      Final Sagat anim_256: 744379870
+      Final Sagat anim_257: -371527302
+      Final Sagat anim_258: 913085168
+      Final Sagat anim_259: 1096433192
+      Final Sagat anim_26: 955067346
+      Final Sagat anim_260: -480940930
+      Final Sagat anim_261: -450797918
+      Final Sagat anim_262: -478553010
+      Final Sagat anim_263: 124750624
+      Final Sagat anim_264: 1032139567
+      Final Sagat anim_265: 770540556
+      Final Sagat anim_266: 980498280
+      Final Sagat anim_267: 1852528798
+      Final Sagat anim_268: 91743767
+      Final Sagat anim_269: 391124694
+      Final Sagat anim_27: 61830260
+      Final Sagat anim_270: 1299606015
+      Final Sagat anim_271: 776243584
+      Final Sagat anim_272: -859504167
+      Final Sagat anim_273: 1250717330
+      Final Sagat anim_274: 1967083539
+      Final Sagat anim_275: -1838695458
+      Final Sagat anim_276: -379743059
+      Final Sagat anim_277: 1601511219
+      Final Sagat anim_278: 218034833
+      Final Sagat anim_279: -1278499345
+      Final Sagat anim_28: 720801223
+      Final Sagat anim_280: 754310052
+      Final Sagat anim_281: -60793819
+      Final Sagat anim_282: 502263704
+      Final Sagat anim_283: 1333721671
+      Final Sagat anim_284: 1491464299
+      Final Sagat anim_285: 2075741212
+      Final Sagat anim_286: -1235941614
+      Final Sagat anim_287: -106532974
+      Final Sagat anim_288: 1769948744
+      Final Sagat anim_289: 104299888
+      Final Sagat anim_29: 474877979
+      Final Sagat anim_290: 1984571011
+      Final Sagat anim_291: -1375433306
+      Final Sagat anim_292: 449615241
+      Final Sagat anim_293: -1135745093
+      Final Sagat anim_294: -1570714718
+      Final Sagat anim_295: 1556759944
+      Final Sagat anim_296: 89344301
+      Final Sagat anim_297: 1234880113
+      Final Sagat anim_298: 928331804
+      Final Sagat anim_299: -1376122600
+      Final Sagat anim_3: -700743865
+      Final Sagat anim_30: 775222480
+      Final Sagat anim_300: 1616980207
+      Final Sagat anim_301: 511558153
+      Final Sagat anim_302: -1602080310
+      Final Sagat anim_303: -1989354450
+      Final Sagat anim_304: -1230487938
+      Final Sagat anim_305: -1372614380
+      Final Sagat anim_306: -1236777847
+      Final Sagat anim_307: -1008352091
+      Final Sagat anim_308: 1783117595
+      Final Sagat anim_309: 1917584107
+      Final Sagat anim_31: 2099269920
+      Final Sagat anim_310: -1127517238
+      Final Sagat anim_311: -584547206
+      Final Sagat anim_312: 548128513
+      Final Sagat anim_313: 294524040
+      Final Sagat anim_314: 1245147979
+      Final Sagat anim_315: 1685790062
+      Final Sagat anim_316: 2076134539
+      Final Sagat anim_317: 1079508283
+      Final Sagat anim_318: 880499431
+      Final Sagat anim_319: 1106553427
+      Final Sagat anim_32: 325545455
+      Final Sagat anim_320: 552054679
+      Final Sagat anim_321: -1165351919
+      Final Sagat anim_322: -1378583017
+      Final Sagat anim_323: -812165939
+      Final Sagat anim_324: -783245854
+      Final Sagat anim_325: -169663544
+      Final Sagat anim_326: -1948117176
+      Final Sagat anim_327: 58492870
+      Final Sagat anim_328: -2041793996
+      Final Sagat anim_329: 140204696
+      Final Sagat anim_33: 135439937
+      Final Sagat anim_330: -222276673
+      Final Sagat anim_331: -2036931941
+      Final Sagat anim_332: -1128602537
+      Final Sagat anim_333: -1148661557
+      Final Sagat anim_334: -816635124
+      Final Sagat anim_335: 67825446
+      Final Sagat anim_336: 457287830
+      Final Sagat anim_337: 1282757199
+      Final Sagat anim_338: 1748900119
+      Final Sagat anim_339: 1731051871
+      Final Sagat anim_34: 787272291
+      Final Sagat anim_340: 1887417334
+      Final Sagat anim_341: -2073770487
+      Final Sagat anim_342: -841383297
+      Final Sagat anim_343: -1889164160
+      Final Sagat anim_344: -154309017
+      Final Sagat anim_35: -2142986340
+      Final Sagat anim_36: -1008408754
+      Final Sagat anim_37: 1326838465
+      Final Sagat anim_38: 2111098496
+      Final Sagat anim_39: 1387884116
+      Final Sagat anim_4: -354684518
+      Final Sagat anim_40: -1463419853
+      Final Sagat anim_41: -200245208
+      Final Sagat anim_42: -1646388772
+      Final Sagat anim_43: 1633070107
+      Final Sagat anim_44: 1615923115
+      Final Sagat anim_45: 1783757823
+      Final Sagat anim_46: 2119874509
+      Final Sagat anim_47: 1728068038
+      Final Sagat anim_48: 1244533259
+      Final Sagat anim_49: -878515280
+      Final Sagat anim_5: 1465505094
+      Final Sagat anim_50: -1197982386
+      Final Sagat anim_51: 587616949
+      Final Sagat anim_52: -2013297359
+      Final Sagat anim_53: 1821937815
+      Final Sagat anim_54: -301484322
+      Final Sagat anim_55: -1426339332
+      Final Sagat anim_56: 410261242
+      Final Sagat anim_57: 488158170
+      Final Sagat anim_58: 1991107088
+      Final Sagat anim_59: -1581946155
+      Final Sagat anim_6: 1515841035
+      Final Sagat anim_60: 490279868
+      Final Sagat anim_61: -1391072681
+      Final Sagat anim_62: 399038235
+      Final Sagat anim_63: 578484149
+      Final Sagat anim_64: -1541803499
+      Final Sagat anim_65: -857254138
+      Final Sagat anim_66: -928821232
+      Final Sagat anim_67: -1022423139
+      Final Sagat anim_68: -576344193
+      Final Sagat anim_69: 790478880
+      Final Sagat anim_7: 2115041053
+      Final Sagat anim_70: 633678992
+      Final Sagat anim_71: 1784505240
+      Final Sagat anim_72: -705301634
+      Final Sagat anim_73: 1273090363
+      Final Sagat anim_74: -352483863
+      Final Sagat anim_75: -503431244
+      Final Sagat anim_76: -1622033193
+      Final Sagat anim_77: 1566049953
+      Final Sagat anim_78: -1077801031
+      Final Sagat anim_79: 1938524480
+      Final Sagat anim_8: -239770198
+      Final Sagat anim_80: -1391280410
+      Final Sagat anim_81: -1250920180
+      Final Sagat anim_82: 1432177775
+      Final Sagat anim_83: 1891594081
+      Final Sagat anim_84: -122238606
+      Final Sagat anim_85: -686582371
+      Final Sagat anim_86: 203439606
+      Final Sagat anim_87: 163585785
+      Final Sagat anim_88: 491855837
+      Final Sagat anim_89: -590449123
+      Final Sagat anim_9: -1885337640
+      Final Sagat anim_90: 1098174021
+      Final Sagat anim_91: -574547454
+      Final Sagat anim_92: -1487152344
+      Final Sagat anim_93: 1679021950
+      Final Sagat anim_94: -1870273018
+      Final Sagat anim_95: -1391017743
+      Final Sagat anim_96: -174038075
+      Final Sagat anim_97: 343873890
+      Final Sagat anim_98: -1647412426
+      Final Sagat anim_99: 1040781555
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
