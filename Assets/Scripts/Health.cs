@@ -5,9 +5,9 @@ public class Health : MonoBehaviour
 {
     public int maxHealth = 3;
     public int currentHealth;
-    public Image[] heartImages; // Assign in Inspector
+    public Image[] heartImages;
 
-    private bool isBlocking = false; // Added for clarity
+    private bool isBlocking = false;
 
     private void Start()
     {
@@ -38,12 +38,12 @@ public class Health : MonoBehaviour
         {
             TakeDamage(damageAmount);
         }
-        // Handle blocking logic if needed
+
     }
 
     private void Die()
     {
-        // Implement your game over logic here
+
         Debug.Log("Player is dead!");
     }
 
@@ -62,5 +62,5 @@ public class Health : MonoBehaviour
         }
     }
 
-    // ... (Other methods for animations, events, etc.)
+
 }

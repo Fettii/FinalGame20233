@@ -37,38 +37,38 @@ public class PlayerController : MonoBehaviour
 
     private void HandleInput()
     {
-        // Only handle input for Player 2
+
         if (isPlayer2)
         {
-            // Jump (Numpad 8)
+
             if (Input.GetKeyDown(KeyCode.Keypad8) && isGrounded)
             {
                 rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
                 animator.SetTrigger("Jump");
             }
 
-            // Left (Numpad 4)
+
             if (Input.GetKey(KeyCode.Keypad4))
             {
                 rb.velocity = new Vector2(-moveSpeed, rb.velocity.y);
                 animator.SetFloat("Speed", Mathf.Abs(-1f)); // Flip the sprite
             }
 
-            // Right (Numpad 6)
+
             if (Input.GetKey(KeyCode.Keypad6))
             {
                 rb.velocity = new Vector2(moveSpeed, rb.velocity.y);
                 animator.SetFloat("Speed", Mathf.Abs(1f)); // Unflip the sprite
             }
 
-            // Punch (Numpad 7)
+
             if (Input.GetKeyDown(KeyCode.Keypad7) && !isPunching)
             {
                 animator.SetTrigger("Punch");
                 isPunching = true;
             }
 
-            // Kick (Numpad 9)
+
             if (Input.GetKeyDown(KeyCode.Keypad9) && !isKicking)
             {
                 animator.SetTrigger("Kick");
@@ -78,71 +78,72 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-        }
-        // Movement
-        float horizontalInput = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
-        animator.SetFloat("Speed", Mathf.Abs(horizontalInput));
 
-        // Jump
-        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
-        {
-            rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
-            animator.SetTrigger("Jump");
-        }
+            // Movement
+            float horizontalInput = Input.GetAxis("Horizontal");
+            rb.velocity = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
+            animator.SetFloat("Speed", Mathf.Abs(horizontalInput));
 
-        // ... (Dash logic and other inputs)
+            // Jump
+            if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+            {
+                rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
+                animator.SetTrigger("Jump");
+            }
 
-        // Block
-        if (Input.GetKey(KeyCode.A))
-        {
-            isBlocking = true;
-            OnBlockingStateChanged?.Invoke(true);
-        }
-        else
-        {
-            isBlocking = false;
-            OnBlockingStateChanged?.Invoke(false);
-        }
 
-        // Punch
-        if (Input.GetKeyDown(KeyCode.O) && !isPunching)
-        {
-            animator.SetTrigger("Punch");
-            isPunching = true;
-            DealDamageToPlayer2(punchDamageAmount);
-        }
 
-        // Kick
-        if (Input.GetKeyDown(KeyCode.P) && !isKicking)
-        {
-            animator.SetTrigger("Kick");
-            isKicking = true;
-            DealDamageToPlayer2(kickDamageAmount);
+            // Block
+            if (Input.GetKey(KeyCode.A))
+            {
+                isBlocking = true;
+                OnBlockingStateChanged?.Invoke(true);
+            }
+            else
+            {
+                isBlocking = false;
+                OnBlockingStateChanged?.Invoke(false);
+            }
+
+            // Punch
+            if (Input.GetKeyDown(KeyCode.O) && !isPunching)
+            {
+                animator.SetTrigger("Punch");
+                isPunching = true;
+                DealDamageToPlayer2(punchDamageAmount);
+            }
+
+            // Kick
+            if (Input.GetKeyDown(KeyCode.P) && !isKicking)
+            {
+                animator.SetTrigger("Kick");
+                isKicking = true;
+                DealDamageToPlayer2(kickDamageAmount);
+            }
         }
 
     }
 
     private void DealDamageToPlayer2(int damageAmount)
     {
-        GameObject player2 = GameObject.Find("Player2"); // Adjust the name accordingly
+        GameObject player2 = GameObject.Find("Player2");
         Health player2Health = player2.GetComponent<Health>();
 
         player2Health.ApplyDamage(damageAmount);
     }
 
-    // Called from Animation Event in Punch animation
+
     private void EndPunch()
     {
         isPunching = false;
-        animator.ResetTrigger("Punch"); // Reset the trigger
+        animator.ResetTrigger("Punch");
     }
 
-    // Called from Animation Event in Kick animation
+
     private void EndKick()
     {
         isKicking = false;
-        animator.ResetTrigger("Kick"); // Reset the trigger
+        animator.ResetTrigger("Kick");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -163,5 +164,5 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // ... (Other methods for animation events, etc.)
+
 }
